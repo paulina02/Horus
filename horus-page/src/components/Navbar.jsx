@@ -1,5 +1,6 @@
 import "../index.css";
 import logo from "../images/logofull.png";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -14,16 +15,22 @@ const Navbar = () => {
           <div className="hidden sm:block">
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="#nosotros"
                 className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
               >
                 Nosotros
               </a>
               <a
-                href="#"
+                href="#misiones"
                 className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
               >
                 Misiones
+              </a>
+              <a
+                href="#areas"
+                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+              >
+                Areas
               </a>
               <a
                 href="#"

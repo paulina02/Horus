@@ -4,7 +4,9 @@ const Nosotros = () => {
   return (
     <>
       <div className="max-w-4xl mx-auto px-4 py-8">
-        <p className="text-6xl italic font-bold text-left mb-8">Nosotros</p>
+        <p className="text-6xl italic font-bold text-left mb-8" id="nosotros">
+          Nosotros
+        </p>
         <p className="text-xl mb-8">
           Fundado en el Instituto Tecnológico de Sonora campus Guaymas en Mayo
           de 2022. Somos un grupo multidisciplinario que busca potenciar en los

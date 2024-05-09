@@ -10,9 +10,9 @@ const Header = () => {
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center h-32 md:h-48">
-          <img src={logo} alt="Logo" className="h-16 mt-8 md:h-24" />
-          <div className="text-white size-10 md:text-xl mt-2 text-center">
-            <h1 className="size-12">“Juntos volamos alto”</h1>
+          <img src={logo} alt="Logo" className="h-16 mt-24 md:h-24" />
+          <div className="text-white  md:text-xl mt-2 text-center">
+            <p className="text-6xl mt-8">“Juntos volamos alto”</p>
           </div>
         </div>
       </div>
