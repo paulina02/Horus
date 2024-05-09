@@ -16,31 +16,31 @@ const Navbar = () => {
             <div className="flex space-x-4">
               <a
                 href="#nosotros"
-                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+                className="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 Nosotros
               </a>
               <a
                 href="#misiones"
-                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+                className="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 Misiones
               </a>
               <a
                 href="#areas"
-                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+                className="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 Areas
               </a>
               <a
                 href="#"
-                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+                className="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 Patrocinadores
               </a>
               <a
                 href="#"
-                className="text-black hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
+                className="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 <button>Unete al Equipo!</button>
               </a>

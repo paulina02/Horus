@@ -12,17 +12,17 @@ const Footer = () => {
             <h3 className="text-3xl  mb-2">Contenido</h3>
             <ul>
               <li>
-                <a href="#" className="block hover:text-gray-400">
+                <a href="#nosotros" className="block hover:text-gray-400">
                   Nosotros
                 </a>
               </li>
               <li>
-                <a href="#" className="block hover:text-gray-400">
+                <a href="#misiones" className="block hover:text-gray-400">
                   Misiones
                 </a>
               </li>
               <li>
-                <a href="#" className="block hover:text-gray-400">
+                <a href="#areas" className="block hover:text-gray-400">
                   Áreas
                 </a>
               </li>
